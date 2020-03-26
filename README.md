@@ -11,3 +11,5 @@ un exercice sur le theme du cv bootstrap
 ## ajout formations
 
 ## ajout portefolio
+
+## ajout recommandation
