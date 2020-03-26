@@ -130,7 +130,7 @@ section .heading h2 {
    padding : 30px 10px;
    position: relative;
 }
-
+/* ajout de la barre centrale pour la time line */
 .timeline:before{
     top:0;
     bottom: 0;
@@ -156,6 +156,7 @@ section .heading h2 {
     content: " ";
     display: table;
 }
+/* ajout des cercles sur la barre timeline */
 .timeline li .timeline-badge{
     color: #d82c2e;
     width: 50px;
@@ -194,6 +195,7 @@ section .heading h2 {
     margin-left: 40px;
 }
 
+/* gestion des triangle sur les badges */
 .timeline-panel:after{
     position: absolute;
     top: 27px;
