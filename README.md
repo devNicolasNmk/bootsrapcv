@@ -13,3 +13,5 @@ un exercice sur le theme du cv bootstrap
 ## ajout portefolio
 
 ## ajout recommandation
+
+## ajout footer
